@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PRIMER_EJERCICIO/PRIMER_EJERCICIO.iml" filepath="$PROJECT_DIR$/PRIMER_EJERCICIO/PRIMER_EJERCICIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEGUNDO_EJERCICIO/SEGUNDO_EJERCICIO.iml" filepath="$PROJECT_DIR$/SEGUNDO_EJERCICIO/SEGUNDO_EJERCICIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TALLER_COLAS_MOUTHONGOMEZ_CARLOSJULIAN_0222120007.iml" filepath="$PROJECT_DIR$/.idea/TALLER_COLAS_MOUTHONGOMEZ_CARLOSJULIAN_0222120007.iml" />
+    </modules>
+  </component>
+</project>
